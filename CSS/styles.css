@@ -1,0 +1,10 @@
+header, section, footer {
+    width: 70%;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    background-color: orange;
+    border-radius: 100px;
+}
